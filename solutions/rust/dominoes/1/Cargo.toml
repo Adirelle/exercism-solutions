@@ -1,0 +1,4 @@
+[package]
+edition = "2024"
+name = "dominoes"
+version = "2.1.0"
